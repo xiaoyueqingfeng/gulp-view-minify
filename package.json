@@ -1,0 +1,22 @@
+{
+  "name": "gulp-view-minify",
+  "version": "0.1.3",
+  "main": "index.js",
+  "author": "滕磊 <admin@tides.cn>",
+  "license": "MIT",
+  "keywords": [
+    "gulp",
+    "ejs",
+    "minify",
+    "gulpplugin",
+    "gulp-plugin",
+    "gulp-view-minify",
+    "gulp minify ejs",
+    "gulp minify html",
+    "gulp minify xml",
+    "gulp minify wxml"
+  ],
+  "dependencies": {
+    "through2": "^4.0.2"
+  }
+}
